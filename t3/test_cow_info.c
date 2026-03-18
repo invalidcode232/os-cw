@@ -8,7 +8,7 @@
 #include <errno.h>
 #include <string.h>
 
-#define SYS_cow_info 463
+#define SYS_cow_info 464
 #define PAGE_SIZE 4096
 #define TEST_PAGES 10
 
